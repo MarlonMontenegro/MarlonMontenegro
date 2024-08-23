@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I'm in my first year studying Open Source Software Development at ESIT (Escuela Superior de Innovación y Tecnología). I've taught myself HTML, CSS, JavaScript, Java. I really enjoy creating web applications that look good and work well. While I'm learning at ESIT, I'm also exploring on my own to get better at software development. I'm curious about new technologies and want to make user-friendly web solutions.
+I’m in my first year studying Open Source Software Development at Universidad Don Bosco. I’ve learned HTML, CSS, JavaScript, and Java, and I really enjoy creating web applications that are both visually appealing and functional. While I’m learning at Universidad Don Bosco, I’m also exploring on my own to enhance my software development skills. I’m curious about new technologies and strive to develop user-friendly web solutions.
 
 * 🌍  I'm based in El Salvador
 * 🖥️  See my portfolio at [montenegro.portafolio](http://https://marlonmontenegro.github.io/montenegro-portfolio/)
