@@ -1,17 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marlon Montenegro
 =========================================================================================================================================
 
-Web developer
--------------
+Web & Backend Developer
+I’m currently studying Técnico en Ingeniería en Computación at Universidad Don Bosco and previously earned a Bachelor’s degree in Tourism Business Administration from Universidad Francisco Gavidia. I’m passionate about software development, especially in backend technologies, and have experience building web applications with PHP, Laravel, and JavaScript.
 
-I’m in my first year studying Open Source Software Development at Universidad Don Bosco. I’ve learned HTML, CSS, JavaScript, and Java, and I really enjoy creating web applications that are both visually appealing and functional. While I’m learning at Universidad Don Bosco, I’m also exploring on my own to enhance my software development skills. I’m curious about new technologies and strive to develop user-friendly web solutions.
+Throughout my journey, I’ve worked on freelance projects and currently serve as a backend intern at Botblaze, where I contribute to real-world applications using MySQL, Laravel, and tools like Jira and GitHub. I enjoy solving problems, collaborating with others, and continuously learning new technologies.
 
-* 🌍  I'm based in El Salvador
-* 🖥️  See my portfolio at [montenegro.portafolio](http://https://marlonmontenegro.github.io/montenegro-portfolio/)
-* ✉️  You can contact me at [marlonmontenegropaz@gmail.com](mailto:marlonmontenegropaz@gmail.com)
-* 🧠  I'm learning Springboot, angular and saleforce
-* 🤝  I'm open to collaborating on I'm looking for teamwork in open-source software. Excited to join projects using HTML, CSS, JavaScript, Java, and Salesforce.
-* ⚡  I am fluent in English and Spanish, and currently, I am in the process of learning French.
+🌍 Based in San Salvador, El Salvador
+
+✉️ Contact: marlonmontenegropaz@gmail.com
+
+📱 Phone: (+503) 7936-5398
+
+🖥️ Portfolio: marlonmontenegro.github.io/montenegro-portfolio
+
+⚡ Languages: Fluent in English (B2+ TOEIC Certified), Spanish (Native), French (A2)
 
 ### Skills
 
