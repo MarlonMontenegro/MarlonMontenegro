@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 Web & Backend Developer
-I’m currently studying Técnico en Ingeniería en Computación at Universidad Don Bosco and previously earned a Bachelor’s degree in Tourism Business Administration from Universidad Francisco Gavidia. I’m passionate about software development, especially in backend technologies, and have experience building web applications with PHP, Laravel, and JavaScript.
+I’m currently studying Técnico en Ingeniería en Computación at Universidad Don Bosco. I’m passionate about software development, especially in backend technologies, and have experience building web applications with PHP, Laravel, and JavaScript.
 
 Throughout my journey, I’ve worked on freelance projects and currently serve as a backend intern at Botblaze, where I contribute to real-world applications using MySQL, Laravel, and tools like Jira and GitHub. I enjoy solving problems, collaborating with others, and continuously learning new technologies.
 
